@@ -1,0 +1,22 @@
+{
+  "name": "tinytools",
+  "version": "0.1.0",
+  "description": "A handful of zero-dependency CLI utilities for everyday terminal chores",
+  "type": "module",
+  "bin": {
+    "tinytools": "bin/tinytools.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "cli",
+    "utils",
+    "zero-dependency",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
